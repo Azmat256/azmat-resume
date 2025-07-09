@@ -1,6 +1,10 @@
 # 💼 Azmat Nawaz | Junior Frontend Developer
 
 Welcome to my personal resume website built with HTML and CSS. This single-page layout is designed to be clean, semantic, SEO-friendly, and easy to customize.
+---
+## 🌐 Live Project URL
+
+🔗 [https://azmat256.github.io/azmat-resume/](https://azmat256.github.io/azmat-resume/)
 
 ---
 
