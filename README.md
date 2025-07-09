@@ -3,7 +3,7 @@
 Welcome to my personal resume website built with HTML and CSS. This single-page layout is designed to be clean, semantic, SEO-friendly, and easy to customize.
 
 ## 💼 Project URL
-🔗 [https://roadmap.sh/projects/single-page-cv]
+🔗 [https://roadmap.sh/projects/single-page-cv]{https://roadmap.sh/projects/single-page-cv}
 ---
 ## 🌐 Live Project URL
 
